@@ -1,6 +1,5 @@
 Simple command handler for discord.js
-.
-.
-.
-.
-Created by me
+---
+- automates command registration
+- easy for beginners
+- handles modals,buttons and selectMenus seperately
